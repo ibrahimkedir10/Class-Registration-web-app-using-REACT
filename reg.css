@@ -1,0 +1,16 @@
+.fixed {
+   display: inline-block;
+   width: 200px;
+   background-color: #ffffcc;
+   border-style: solid;
+   border-width: 2px;
+   border-color: #000;
+   padding: 5px;
+}
+
+.changing {
+   background-color: #ffcccc;
+   border-style: solid;
+   border-width: 2px;
+   border-color: #900;
+}
